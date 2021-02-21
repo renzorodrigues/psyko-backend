@@ -1,6 +1,6 @@
 using System;
 
-namespace Api
+namespace CCAU
 {
     public class WeatherForecast
     {
